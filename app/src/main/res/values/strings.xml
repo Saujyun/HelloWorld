@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="WHO">Created by lihongyi</string>
+    <string name="Star">Star</string>
+    <string name="send">Send</string>
+    <string name="add">Add</string>
+    <string name="Remove">Remove</string>
+</resources>
